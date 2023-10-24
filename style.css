@@ -1,7 +1,8 @@
 body {
-    background-color: darkgreen;
+    background-color: burlywood;
     color: darkblue;
     text-align: center;
+    font-weight: bold;
 }
 
 h1, h2 {
